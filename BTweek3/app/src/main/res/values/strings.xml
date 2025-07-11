@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Jetpack Compose</string>
+    <string name="text1">Jetpack Compose is a modern UI toolkit for building native Android applications using a declarative programming approach.</string>
+</resources>
